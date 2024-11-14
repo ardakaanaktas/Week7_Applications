@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Applications", "Applications\Applications.csproj", "{4E0BD3BC-3272-4490-AB61-A3D78341BF85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq", "Linq\Linq.csproj", "{D86675FE-3DC4-4A59-90E1-4C192EB4E6E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practise_Linq", "Practise_Linq\Practise_Linq.csproj", "{9689E214-392E-42E2-AE9F-8D586A843ABB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E0BD3BC-3272-4490-AB61-A3D78341BF85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E0BD3BC-3272-4490-AB61-A3D78341BF85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E0BD3BC-3272-4490-AB61-A3D78341BF85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E0BD3BC-3272-4490-AB61-A3D78341BF85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D86675FE-3DC4-4A59-90E1-4C192EB4E6E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D86675FE-3DC4-4A59-90E1-4C192EB4E6E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D86675FE-3DC4-4A59-90E1-4C192EB4E6E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D86675FE-3DC4-4A59-90E1-4C192EB4E6E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9689E214-392E-42E2-AE9F-8D586A843ABB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9689E214-392E-42E2-AE9F-8D586A843ABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9689E214-392E-42E2-AE9F-8D586A843ABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9689E214-392E-42E2-AE9F-8D586A843ABB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6AB25B3-D0C5-46B5-B365-68BB3C94BB94}
+	EndGlobalSection
+EndGlobal
