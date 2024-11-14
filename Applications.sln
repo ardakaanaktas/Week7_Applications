@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq", "Linq\Linq.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practise_Linq", "Practise_Linq\Practise_Linq.csproj", "{9689E214-392E-42E2-AE9F-8D586A843ABB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patikafy", "Patikafy\Patikafy.csproj", "{DF25A868-FAC3-407B-B9E3-F37A25F85D83}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{9689E214-392E-42E2-AE9F-8D586A843ABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9689E214-392E-42E2-AE9F-8D586A843ABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9689E214-392E-42E2-AE9F-8D586A843ABB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF25A868-FAC3-407B-B9E3-F37A25F85D83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF25A868-FAC3-407B-B9E3-F37A25F85D83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF25A868-FAC3-407B-B9E3-F37A25F85D83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF25A868-FAC3-407B-B9E3-F37A25F85D83}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
