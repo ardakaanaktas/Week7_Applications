@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patikafy", "Patikafy\Patika
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatikaFlix", "PatikaFlix\PatikaFlix.csproj", "{FF8B4E72-8A85-43D5-97FA-3AA84DE569CD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq_Join_Practise", "Linq_Join_Practise\Linq_Join_Practise.csproj", "{79D7CDE7-88AD-4CE5-BA5A-5E5B37926733}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{FF8B4E72-8A85-43D5-97FA-3AA84DE569CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF8B4E72-8A85-43D5-97FA-3AA84DE569CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF8B4E72-8A85-43D5-97FA-3AA84DE569CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79D7CDE7-88AD-4CE5-BA5A-5E5B37926733}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79D7CDE7-88AD-4CE5-BA5A-5E5B37926733}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79D7CDE7-88AD-4CE5-BA5A-5E5B37926733}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79D7CDE7-88AD-4CE5-BA5A-5E5B37926733}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
