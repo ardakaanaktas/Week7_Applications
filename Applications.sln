@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatikaFlix", "PatikaFlix\Pa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq_Join_Practise", "Linq_Join_Practise\Linq_Join_Practise.csproj", "{79D7CDE7-88AD-4CE5-BA5A-5E5B37926733}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq_Group_Join_Practise", "Linq_Group_Join_Practise\Linq_Group_Join_Practise.csproj", "{691A05E9-81D0-4A9F-8111-9E018503AD37}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{79D7CDE7-88AD-4CE5-BA5A-5E5B37926733}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79D7CDE7-88AD-4CE5-BA5A-5E5B37926733}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79D7CDE7-88AD-4CE5-BA5A-5E5B37926733}.Release|Any CPU.Build.0 = Release|Any CPU
+		{691A05E9-81D0-4A9F-8111-9E018503AD37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{691A05E9-81D0-4A9F-8111-9E018503AD37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{691A05E9-81D0-4A9F-8111-9E018503AD37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{691A05E9-81D0-4A9F-8111-9E018503AD37}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
